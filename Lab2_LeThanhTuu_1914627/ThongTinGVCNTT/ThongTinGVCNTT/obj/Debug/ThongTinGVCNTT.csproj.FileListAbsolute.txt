@@ -1,0 +1,12 @@
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.csproj.AssemblyReference.cache
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.From1.resources
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.Properties.Resources.resources
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.frmTBGiaoVien.resources
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.csproj.GenerateResource.cache
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.csproj.CoreCompileInputs.cache
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\bin\Debug\ThongTinGVCNTT.exe.config
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\bin\Debug\ThongTinGVCNTT.exe
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\bin\Debug\ThongTinGVCNTT.pdb
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.exe
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.pdb
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\ThongTinGVCNTT\ThongTinGVCNTT\obj\Debug\ThongTinGVCNTT.TimTTGV.resources

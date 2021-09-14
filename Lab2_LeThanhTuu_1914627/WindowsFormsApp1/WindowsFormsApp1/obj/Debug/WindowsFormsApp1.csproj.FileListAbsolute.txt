@@ -1,0 +1,10 @@
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTrungTam.resources
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\LTCSDL\Lab2_LeThanhTuu_1914627\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
