@@ -1,0 +1,10 @@
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\bin\Debug\BTHLab4.exe.config
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\bin\Debug\BTHLab4.exe
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\bin\Debug\BTHLab4.pdb
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\obj\Debug\BTHLab4.csproj.AssemblyReference.cache
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\obj\Debug\BTHLab4.Properties.Resources.resources
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\obj\Debug\BTHLab4.csproj.GenerateResource.cache
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\obj\Debug\BTHLab4.csproj.CoreCompileInputs.cache
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\obj\Debug\BTHLab4.exe
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\obj\Debug\BTHLab4.pdb
+D:\LTCSDL\BTHLab4_LeThanhTuu_1914627\BTHLab4\BTHLab4\obj\Debug\BTHLab4.frmSinhVien.resources
