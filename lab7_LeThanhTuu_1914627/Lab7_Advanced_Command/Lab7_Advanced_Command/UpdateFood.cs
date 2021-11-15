@@ -22,53 +22,29 @@ namespace Lab7_Advanced_Command
 
 		private void btnAdd_Click(object sender, EventArgs e)
 		{
-			try
+			string connectionString = "server=.; database = RestaurantManagement; Integrated Security = true; ";
+			SqlConnection sqlConnection = new SqlConnection(connectionString);
+
+			SqlCommand sqlCommand = sqlConnection.CreateCommand();
+
+			sqlCommand.CommandText = "INSERT INTO Category(Name, [Type])" + "VALUES (N' " + txtName.Text + " ', " + txtType.Text + ")";
+
+			sqlConnection.Open();
+
+			int numOfRowsEffected = sqlCommand.ExecuteNonQuery();
+
+			sqlConnection.Close();
+
+			if (numOfRowsEffected == 1)
 			{
-				string connecticonString = "server=.; database = RestaurantManagement; Integrated Security = true; ";
-				SqlConnection conn = new SqlConnection(connecticonString);
+				MessageBox.Show("Thêm nhóm món ăn thành công");
 
-				SqlCommand cmd = conn.CreateCommand();
-				cmd.CommandText = "execute InsertCategory @ID OUTPUT,@name,@type;";
-				// thêm tham số vào đói tượng
-				cmd.Parameters.Add("@ID", SqlDbType.Int);
-				cmd.Parameters.Add("@name", SqlDbType.NVarChar, 300);
-				cmd.Parameters.Add("@type", SqlDbType.Int);
-
-				cmd.Parameters["@id"].Direction = ParameterDirection.Output;
-				//truyền giá trị thủ tục qua tham số
-
-				cmd.Parameters["@name"].Value = txtName.Text;
-				cmd.Parameters["@type"].Value = txtType.Text;
-
-				//mở kết nối đến csdl
-
-				conn.Open();
-				int numRowAffected = cmd.ExecuteNonQuery();
-				//thông báo kết quả
-
-				if (numRowAffected > 0)
-                {
-					string foodID = cmd.Parameters["@id"].Value.ToString();
-					MessageBox.Show("thêm nhóm món ăn thành công.Mã nhóm = " +foodID, "Message");
-					this.ResetText();
-				}
-
-				else
-				{
-					MessageBox.Show("thêm thất bại");
-				}
-				conn.Close();
-				conn.Dispose();
+				txtName.Text = "";
+				txtType.Text = "";
 			}
-			//bắt lỗi sql và các lỗi khác
-
-			catch (SqlException exception)
+			else
 			{
-				MessageBox.Show(exception.Message, "SQL Error");
-			}
-			catch (Exception exception)
-			{
-				MessageBox.Show(exception.Message, "Error");
+				MessageBox.Show("Đã có lỗi xảy ra vui lòng thử lại");
 			}
 		}
 	}

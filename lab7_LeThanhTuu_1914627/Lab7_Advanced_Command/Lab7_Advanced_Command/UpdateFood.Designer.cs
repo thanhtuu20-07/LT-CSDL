@@ -56,7 +56,7 @@ namespace Lab7_Advanced_Command
 			// 
 			// btnAdd
 			// 
-			this.btnAdd.Location = new System.Drawing.Point(306, 185);
+			this.btnAdd.Location = new System.Drawing.Point(287, 182);
 			this.btnAdd.Name = "btnAdd";
 			this.btnAdd.Size = new System.Drawing.Size(75, 23);
 			this.btnAdd.TabIndex = 2;
@@ -101,7 +101,7 @@ namespace Lab7_Advanced_Command
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(721, 344);
+			this.ClientSize = new System.Drawing.Size(505, 217);
 			this.Controls.Add(this.txtType);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.txtID);
